@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title": "My First Blog!",
+            "body":"What a beautiful day! \nI wanted to start blogging since ages but now is the right time to get into this field",
+            "author":"Mario",
+            "id":1
+        },
+        {
+            "title": "My Second Blog!",
+            "body":"What a beautiful day! \nI wanted to start blogging since ages but now is the right time to get into this field",
+            "author":"SHUBham",
+            "id":2
+        }
+    ]
+}
