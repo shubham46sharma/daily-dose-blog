@@ -1,16 +1,40 @@
 {
-    "blogs":[
-        {
-            "title": "My First Blog!",
-            "body":"What a beautiful day! \nI wanted to start blogging since ages but now is the right time to get into this field",
-            "author":"Mario",
-            "id":1
-        },
-        {
-            "title": "My Second Blog!",
-            "body":"What a beautiful day! \nI wanted to start blogging since ages but now is the right time to get into this field",
-            "author":"SHUBham",
-            "id":2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog!",
+      "body": "What a beautiful day! \nI wanted to start blogging since ages but now is the right time to get into this field",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog!",
+      "body": "What a beautiful day! \nI wanted to start blogging since ages but now is the right time to get into this field",
+      "author": "SHUBham",
+      "id": 2
+    },
+    {
+      "title": "What is Lorem Ipsum ?",
+      "body": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "author": "shubham",
+      "id": 3
+    },
+    {
+      "title": "Ucr",
+      "body": "going to usa soon uni of cali riverside ",
+      "author": "shubham",
+      "id": 4
+    },
+    {
+      "title": "UCR crowd not friendly",
+      "body": "The people in the whats app group are not so friendly but fingers crossed I don't end up alone there as well.",
+      "author": "shubham",
+      "id": 5
+    },
+    {
+      "title": "UCR is fucked up",
+      "body": "I have started to hate the people at UCR",
+      "author": "shubham",
+      "id": 9
+    }
+  ]
 }
